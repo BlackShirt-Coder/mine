@@ -1,0 +1,8 @@
+D:\shoon lai kyi\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\shoon lai kyi\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\shoon lai kyi\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\shoon lai kyi\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\shoon lai kyi\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+D:\shoon lai kyi\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\shoon lai kyi\Assignment2\Assignment2\obj\Debug\Assignment2.pdb

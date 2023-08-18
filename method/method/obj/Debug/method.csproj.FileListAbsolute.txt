@@ -1,0 +1,6 @@
+D:\shoon lai kyi\method\method\bin\Debug\method.exe.config
+D:\shoon lai kyi\method\method\bin\Debug\method.exe
+D:\shoon lai kyi\method\method\bin\Debug\method.pdb
+D:\shoon lai kyi\method\method\obj\Debug\method.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\method\method\obj\Debug\method.exe
+D:\shoon lai kyi\method\method\obj\Debug\method.pdb

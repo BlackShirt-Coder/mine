@@ -1,0 +1,9 @@
+D:\shoon lai kyi\next\next\bin\Debug\next.exe.config
+D:\shoon lai kyi\next\next\bin\Debug\next.exe
+D:\shoon lai kyi\next\next\bin\Debug\next.pdb
+D:\shoon lai kyi\next\next\obj\Debug\next.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\next\next\obj\Debug\next.Form1.resources
+D:\shoon lai kyi\next\next\obj\Debug\next.Properties.Resources.resources
+D:\shoon lai kyi\next\next\obj\Debug\next.csproj.GenerateResource.Cache
+D:\shoon lai kyi\next\next\obj\Debug\next.exe
+D:\shoon lai kyi\next\next\obj\Debug\next.pdb

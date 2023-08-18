@@ -1,0 +1,6 @@
+D:\shoon lai kyi\oo\oo\bin\Debug\oo.exe.config
+D:\shoon lai kyi\oo\oo\obj\Debug\oo.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\oo\oo\bin\Debug\oo.exe
+D:\shoon lai kyi\oo\oo\bin\Debug\oo.pdb
+D:\shoon lai kyi\oo\oo\obj\Debug\oo.exe
+D:\shoon lai kyi\oo\oo\obj\Debug\oo.pdb

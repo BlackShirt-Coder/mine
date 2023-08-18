@@ -1,0 +1,9 @@
+D:\shoon lai kyi\WindowApp\WindowApp\bin\Debug\WindowApp.exe.config
+D:\shoon lai kyi\WindowApp\WindowApp\bin\Debug\WindowApp.exe
+D:\shoon lai kyi\WindowApp\WindowApp\bin\Debug\WindowApp.pdb
+D:\shoon lai kyi\WindowApp\WindowApp\obj\Debug\WindowApp.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\WindowApp\WindowApp\obj\Debug\WindowApp.Form1.resources
+D:\shoon lai kyi\WindowApp\WindowApp\obj\Debug\WindowApp.Properties.Resources.resources
+D:\shoon lai kyi\WindowApp\WindowApp\obj\Debug\WindowApp.csproj.GenerateResource.Cache
+D:\shoon lai kyi\WindowApp\WindowApp\obj\Debug\WindowApp.exe
+D:\shoon lai kyi\WindowApp\WindowApp\obj\Debug\WindowApp.pdb

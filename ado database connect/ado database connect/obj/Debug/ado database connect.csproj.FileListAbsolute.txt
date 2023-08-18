@@ -1,0 +1,9 @@
+D:\shoon lai kyi\ado database connect\ado database connect\bin\Debug\ado database connect.exe.config
+D:\shoon lai kyi\ado database connect\ado database connect\bin\Debug\ado database connect.exe
+D:\shoon lai kyi\ado database connect\ado database connect\bin\Debug\ado database connect.pdb
+D:\shoon lai kyi\ado database connect\ado database connect\obj\Debug\ado database connect.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\ado database connect\ado database connect\obj\Debug\ado_database_connect.InsertForm.resources
+D:\shoon lai kyi\ado database connect\ado database connect\obj\Debug\ado_database_connect.Properties.Resources.resources
+D:\shoon lai kyi\ado database connect\ado database connect\obj\Debug\ado database connect.csproj.GenerateResource.Cache
+D:\shoon lai kyi\ado database connect\ado database connect\obj\Debug\ado database connect.exe
+D:\shoon lai kyi\ado database connect\ado database connect\obj\Debug\ado database connect.pdb

@@ -1,0 +1,5 @@
+D:\shoon lai kyi\example3\example3\bin\Debug\example3.exe.config
+D:\shoon lai kyi\example3\example3\bin\Debug\example3.exe
+D:\shoon lai kyi\example3\example3\bin\Debug\example3.pdb
+D:\shoon lai kyi\example3\example3\obj\Debug\example3.exe
+D:\shoon lai kyi\example3\example3\obj\Debug\example3.pdb

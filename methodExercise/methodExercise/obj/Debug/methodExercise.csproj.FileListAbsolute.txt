@@ -1,0 +1,6 @@
+D:\shoon lai kyi\methodExercise\methodExercise\bin\Debug\methodExercise.exe.config
+D:\shoon lai kyi\methodExercise\methodExercise\bin\Debug\methodExercise.exe
+D:\shoon lai kyi\methodExercise\methodExercise\bin\Debug\methodExercise.pdb
+D:\shoon lai kyi\methodExercise\methodExercise\obj\Debug\methodExercise.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\methodExercise\methodExercise\obj\Debug\methodExercise.exe
+D:\shoon lai kyi\methodExercise\methodExercise\obj\Debug\methodExercise.pdb

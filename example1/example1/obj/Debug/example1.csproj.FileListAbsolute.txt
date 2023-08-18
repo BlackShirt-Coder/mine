@@ -1,0 +1,6 @@
+D:\shoon lai kyi\example1\example1\bin\Debug\example1.exe.config
+D:\shoon lai kyi\example1\example1\bin\Debug\example1.exe
+D:\shoon lai kyi\example1\example1\bin\Debug\example1.pdb
+D:\shoon lai kyi\example1\example1\obj\Debug\example1.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\example1\example1\obj\Debug\example1.exe
+D:\shoon lai kyi\example1\example1\obj\Debug\example1.pdb

@@ -1,0 +1,2 @@
+D:\shoon lai kyi\Linq\Linq\bin\Debug\Linq.exe.config
+D:\shoon lai kyi\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache

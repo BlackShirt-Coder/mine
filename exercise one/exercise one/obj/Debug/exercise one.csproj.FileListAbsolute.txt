@@ -1,0 +1,6 @@
+D:\shoon lai kyi\exercise one\exercise one\bin\Debug\exercise one.exe.config
+D:\shoon lai kyi\exercise one\exercise one\bin\Debug\exercise one.exe
+D:\shoon lai kyi\exercise one\exercise one\bin\Debug\exercise one.pdb
+D:\shoon lai kyi\exercise one\exercise one\obj\Debug\exercise one.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\exercise one\exercise one\obj\Debug\exercise one.exe
+D:\shoon lai kyi\exercise one\exercise one\obj\Debug\exercise one.pdb

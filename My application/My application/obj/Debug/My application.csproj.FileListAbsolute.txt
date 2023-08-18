@@ -1,0 +1,8 @@
+D:\shoon lai kyi\My application\My application\bin\Debug\My application.exe.config
+D:\shoon lai kyi\My application\My application\bin\Debug\My application.exe
+D:\shoon lai kyi\My application\My application\bin\Debug\My application.pdb
+D:\shoon lai kyi\My application\My application\obj\Debug\My application.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\My application\My application\obj\Debug\My_application.Properties.Resources.resources
+D:\shoon lai kyi\My application\My application\obj\Debug\My application.csproj.GenerateResource.Cache
+D:\shoon lai kyi\My application\My application\obj\Debug\My application.exe
+D:\shoon lai kyi\My application\My application\obj\Debug\My application.pdb

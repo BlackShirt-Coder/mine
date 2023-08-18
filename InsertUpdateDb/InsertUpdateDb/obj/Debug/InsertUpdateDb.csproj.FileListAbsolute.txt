@@ -1,0 +1,12 @@
+D:\shoon lai kyi\InsertUpdateDb\InsertUpdateDb\bin\Debug\InsertUpdateDb.exe.config
+D:\shoon lai kyi\InsertUpdateDb\InsertUpdateDb\bin\Debug\InsertUpdateDb.exe
+D:\shoon lai kyi\InsertUpdateDb\InsertUpdateDb\bin\Debug\InsertUpdateDb.pdb
+D:\shoon lai kyi\InsertUpdateDb\InsertUpdateDb\obj\Debug\InsertUpdateDb.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\InsertUpdateDb\InsertUpdateDb\obj\Debug\InsertUpdateDb.Form1.resources
+D:\shoon lai kyi\InsertUpdateDb\InsertUpdateDb\obj\Debug\InsertUpdateDb.Properties.Resources.resources
+D:\shoon lai kyi\InsertUpdateDb\InsertUpdateDb\obj\Debug\InsertUpdateDb.csproj.GenerateResource.Cache
+D:\shoon lai kyi\InsertUpdateDb\InsertUpdateDb\obj\Debug\InsertUpdateDb.exe
+D:\shoon lai kyi\InsertUpdateDb\InsertUpdateDb\obj\Debug\InsertUpdateDb.pdb
+D:\shoon lai kyi\InsertUpdateDb\InsertUpdateDb\obj\Debug\InsertUpdateDb.InsertForm.resources
+D:\shoon lai kyi\InsertUpdateDb\InsertUpdateDb\obj\Debug\InsertUpdateDb.Login.resources
+D:\shoon lai kyi\InsertUpdateDb\InsertUpdateDb\obj\Debug\InsertUpdateDb.LoginForm.resources

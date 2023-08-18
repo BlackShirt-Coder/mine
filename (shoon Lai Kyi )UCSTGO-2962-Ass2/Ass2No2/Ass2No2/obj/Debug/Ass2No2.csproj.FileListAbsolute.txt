@@ -1,0 +1,5 @@
+D:\shoon lai kyi\Ass2\Ass2No2\Ass2No2\bin\Debug\Ass2No2.exe.config
+D:\shoon lai kyi\Ass2\Ass2No2\Ass2No2\bin\Debug\Ass2No2.exe
+D:\shoon lai kyi\Ass2\Ass2No2\Ass2No2\bin\Debug\Ass2No2.pdb
+D:\shoon lai kyi\Ass2\Ass2No2\Ass2No2\obj\Debug\Ass2No2.exe
+D:\shoon lai kyi\Ass2\Ass2No2\Ass2No2\obj\Debug\Ass2No2.pdb

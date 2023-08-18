@@ -1,0 +1,9 @@
+D:\shoon lai kyi\MyTesting_18_7_23\MyTesting_18_7_23\bin\Debug\MyTesting_18_7_23.exe.config
+D:\shoon lai kyi\MyTesting_18_7_23\MyTesting_18_7_23\bin\Debug\MyTesting_18_7_23.exe
+D:\shoon lai kyi\MyTesting_18_7_23\MyTesting_18_7_23\bin\Debug\MyTesting_18_7_23.pdb
+D:\shoon lai kyi\MyTesting_18_7_23\MyTesting_18_7_23\obj\Debug\MyTesting_18_7_23.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\MyTesting_18_7_23\MyTesting_18_7_23\obj\Debug\MyTesting_18_7_23.Form1.resources
+D:\shoon lai kyi\MyTesting_18_7_23\MyTesting_18_7_23\obj\Debug\MyTesting_18_7_23.Properties.Resources.resources
+D:\shoon lai kyi\MyTesting_18_7_23\MyTesting_18_7_23\obj\Debug\MyTesting_18_7_23.csproj.GenerateResource.Cache
+D:\shoon lai kyi\MyTesting_18_7_23\MyTesting_18_7_23\obj\Debug\MyTesting_18_7_23.exe
+D:\shoon lai kyi\MyTesting_18_7_23\MyTesting_18_7_23\obj\Debug\MyTesting_18_7_23.pdb

@@ -1,0 +1,5 @@
+D:\shoon lai kyi\exercise 3\exercise 3\bin\Debug\exercise 3.exe.config
+D:\shoon lai kyi\exercise 3\exercise 3\bin\Debug\exercise 3.exe
+D:\shoon lai kyi\exercise 3\exercise 3\bin\Debug\exercise 3.pdb
+D:\shoon lai kyi\exercise 3\exercise 3\obj\Debug\exercise 3.exe
+D:\shoon lai kyi\exercise 3\exercise 3\obj\Debug\exercise 3.pdb

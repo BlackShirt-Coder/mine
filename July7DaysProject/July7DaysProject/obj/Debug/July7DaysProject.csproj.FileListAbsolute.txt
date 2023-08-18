@@ -1,0 +1,12 @@
+D:\shoon lai kyi\July7DaysProject\July7DaysProject\bin\Debug\July7DaysProject.exe.config
+D:\shoon lai kyi\July7DaysProject\July7DaysProject\bin\Debug\July7DaysProject.exe
+D:\shoon lai kyi\July7DaysProject\July7DaysProject\bin\Debug\July7DaysProject.pdb
+D:\shoon lai kyi\July7DaysProject\July7DaysProject\obj\Debug\July7DaysProject.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\July7DaysProject\July7DaysProject\obj\Debug\July7DaysProject.Form1.resources
+D:\shoon lai kyi\July7DaysProject\July7DaysProject\obj\Debug\July7DaysProject.Properties.Resources.resources
+D:\shoon lai kyi\July7DaysProject\July7DaysProject\obj\Debug\July7DaysProject.csproj.GenerateResource.Cache
+D:\shoon lai kyi\July7DaysProject\July7DaysProject\obj\Debug\July7DaysProject.exe
+D:\shoon lai kyi\July7DaysProject\July7DaysProject\obj\Debug\July7DaysProject.pdb
+D:\shoon lai kyi\July7DaysProject\July7DaysProject\obj\Debug\July7DaysProject.comboSelect.resources
+D:\shoon lai kyi\July7DaysProject\July7DaysProject\obj\Debug\July7DaysProject.LinkForm1.resources
+D:\shoon lai kyi\July7DaysProject\July7DaysProject\obj\Debug\July7DaysProject.LinkForm2.resources
